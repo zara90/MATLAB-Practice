@@ -1,4 +1,4 @@
-man = imread('img3.jpg');
+man = imread('girl.jpg');
 man = rgb2gray(man);
 
 for i = 1 : 360
